@@ -1,31 +1,42 @@
 # TVmeit
 
-A player for your own IPTV subscription on Android TV, Google TV and Fire TV Stick. It has no channels of its own.
+**A fast, tidy IPTV player for Android TV, Google TV and Fire TV Stick.**
 
-**Downloader code: 7537926**
+[![Latest release](https://img.shields.io/github/v/release/reidjackp/tvmeit-releases?label=latest)](https://github.com/reidjackp/tvmeit-releases/releases/latest)
 
-## What it does
+> [!IMPORTANT]
+> TVmeit doesn't provide any channels, playlists or content. Bring your own subscription.
 
-- Tidies your provider's list into clear groups, most-watched channels first.
-- Merges duplicate copies of a channel into one.
-- Shows pay-per-view events only while they're on or coming up, in UK time.
-- TV guide, search, favourites, films and series.
+## Features
 
-## Why it works so well
+**Channels**
+- Duplicate copies of a channel merged into one, the rest kept as backups
+- Best copy first, by measured picture, frame rate and start-up speed
+- Automatic switch when a copy freezes or buffers
+- Clear groups, most-watched channels first
 
-- Plays the copy that really plays best, measured rather than taken from its label.
-- Switches copy by itself if one freezes or buffers.
-- Small and light, with no ads and no tracking.
+**Picture**
+- Honest quality badges _(4K and 50fps only once measured)_
+- Frame-rate matching _(on TVs that support it)_
+
+**Watching**
+- TV guide, search and favourites
+- Films and series, with Continue watching
+
+**Everything else**
+- Clear messages for connection and VPN problems
+- Small and quick, made for Fire TV Sticks
+- No ads, no tracking
 
 ## Install
 
-1. Install the free **Downloader** app.
-2. Allow it to install apps (on Fire TV: Settings > My Fire TV > Developer options > Install unknown apps).
-3. In Downloader, enter **7537926**.
+1. Install **Downloader**.
+2. Allow it to install apps _(Fire TV: Settings > My Fire TV > Developer options > Install unknown apps)_.
+3. Enter **7537926** in Downloader.
 4. Open TVmeit and sign in with your provider's login.
 
-To update, enter the code again.
+**Updating:** enter the same code again.
 
-## Legal
+## Disclaimer
 
-TVmeit doesn't provide any channels or content, and isn't affiliated with any provider or broadcaster. You need a subscription from a provider that has the rights to what it supplies, and you're responsible for what you watch.
+**TVmeit is a player only. It doesn't provide, host or link to any content, and isn't affiliated with any provider or broadcaster. You need a subscription from a provider that has the rights to what it supplies.**
