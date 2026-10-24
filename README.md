@@ -1,6 +1,6 @@
 # TVmeit
 
-**A fast, tidy IPTV player for Android TV, Google TV and Fire TV Stick.**
+**A super lightweight, fast IPTV player for Android TV, Google TV and Fire TV Stick.**
 
 [![Latest release](https://img.shields.io/github/v/release/reidjackp/tvmeit-releases?label=latest)](https://github.com/reidjackp/tvmeit-releases/releases/latest)
 
@@ -25,13 +25,15 @@
 
 **Everything else**
 - Clear messages for connection and VPN problems
-- Small and quick, made for Fire TV Sticks
+- Super lightweight: 2.5 MB, quick even on Fire TV Sticks
 - No ads, no tracking
 
 ## Install
 
 1. Install **Downloader**.
-2. Allow it to install apps _(Fire TV: Settings > My Fire TV > Developer options > Install unknown apps)_.
+2. Allow it to install apps:
+   - **Fire TV:** Settings > My Fire TV > Developer options > Install unknown apps
+   - **Android TV / Google TV:** Settings > Apps > Security & restrictions > Unknown sources
 3. Enter **7537926** in Downloader.
 4. Open TVmeit and sign in with your provider's login.
 
